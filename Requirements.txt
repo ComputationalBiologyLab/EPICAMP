@@ -1,9 +1,17 @@
-Python: 3.8
-pandas: 2.2.2
-numpy: 1.26.4
-scikit-learn: 1.6.0
-imblearn: 0.12.4
-boruta: 0.4.3
-imbalanced-learn: 0.13.0
-cs: 3.3.1
-propy3: 1.1.1
+| Library                     | Version       |
+| --------------------------- | ------------- |
+| Python                      | 3.8           |
+| pandas                      | 2.2.2         |
+| numpy                       | 1.26.4        |
+| scikit-learn                | 1.6.0         |
+| imblearn                    | 0.13.0        |
+| boruta                      | 0.4.3         |
+| matplotlib                  | latest stable |
+| seaborn                     | latest stable |
+| shap                        | latest stable |
+| propy3                      | 1.1.1         |
+| tqdm                        | latest stable |
+| transformers                | latest stable |
+| torch                       | latest stable |
+| google-colab                | preinstalled  |
+| cs                          | 3.3.1         |
