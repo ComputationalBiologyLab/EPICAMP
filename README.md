@@ -72,8 +72,8 @@ Antimicrobial peptides (AMPs) are promising alternatives to antibiotics. This pr
 ## Installation
 
 ```bash
-git clone https://github.com/NonZeroExitAli/Antimicrobial-Peptides-Identification.git
-cd Antimicrobial-Peptides-Identification
+git clone https://github.com/NonZeroExitAli/EPICAMP.git
+cd EPICAMP
 pip install -r requirements.txt
 ```
 ## Primary Notebooks
