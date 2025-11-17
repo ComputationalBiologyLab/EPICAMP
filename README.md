@@ -63,9 +63,9 @@ Antimicrobial peptides (AMPs) are promising alternatives to antibiotics. This pr
 
 | Task | Model | Performance Highlights |
 |------|--------|------------------------|
-| Classification | Random Forest (Boruta + all features) | Accuracy: 96.0%, F1: 95.8%, Recall: 96.0% |
-| MIC Regression (E. coli, S. aureus, P. aeruginosa) | XGBoost + ProtBert | R²: 0.68–0.70 |
-| MIC Regression (K. pneumoniae) | MLP + ProtBert | R²: 0.74, MSE: 0.43 |
+| Classification | Random Forest (Boruta + all features) | Accuracy: 96.0%7, F1: 96.07%, Recall: 96.07% |
+| MIC Regression (E. coli, S. aureus, P. aeruginosa) | XGBoost + ProtBert | R²: 0.7023,  0.6828, 0.6864|
+| MIC Regression (K. pneumoniae) | MLP + ProtBert | R²: 0.7416 |
 
 ---
 
@@ -125,6 +125,6 @@ pip install -r requirements.txt
 ## Contributors
 
 - Ali Magdi — Project design, modeling, deployment  
-- Ahmed Amr — Data acquisition and validation  
+- Ahmed Amr — Data acquisition  
 - Eman Badr — Supervision
 
