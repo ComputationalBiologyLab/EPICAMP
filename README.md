@@ -63,7 +63,7 @@ Antimicrobial peptides (AMPs) are promising alternatives to antibiotics. This pr
 
 | Task | Model | Performance Highlights |
 |------|--------|------------------------|
-| Classification | Random Forest (Boruta + all features) | Accuracy: 96.0%7, F1: 96.07%, Recall: 96.07% |
+| Classification | Random Forest (Boruta, RFE Feature Selection + all features) | Accuracy: 96.0%7, F1: 96.07%, Recall: 96.07% |
 | MIC Regression (E. coli, S. aureus, P. aeruginosa) | XGBoost + ProtBert | R²: 0.7023,  0.6828, 0.6864|
 | MIC Regression (K. pneumoniae) | MLP + ProtBert | R²: 0.7416 |
 
